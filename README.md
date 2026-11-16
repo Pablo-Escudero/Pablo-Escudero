@@ -30,4 +30,4 @@ Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad EIA (
 - **[ImplementacionAgentes](https://github.com/Pablo-Escudero/ImplementacionAgentes):** agente de chat con RAG (FastAPI, LangChain, LangGraph) que responde en español e inglés sobre la franquicia Cyberpunk.
 - **[ReconocimientoImagenesYOLO](https://github.com/Pablo-Escudero/ReconocimientoImagenesYOLO):** reconocimiento de imágenes con YOLO en Python.
 - **[ProyectoKafka](https://github.com/LauraChavaM/ProyectoKafka):** sistema de pedidos con Apache Kafka (proyecto en equipo, rol de colaborador).
-- **Wingo, sistema de reservas en la nube** (AWS, OpenShift, Bedrock): [TU_ENLACE]
+- **Wingo, sistema de reservas en la nube** (AWS, OpenShift, Bedrock)
