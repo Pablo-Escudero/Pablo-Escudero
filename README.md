@@ -2,7 +2,7 @@
 
 ## 💫 Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad EIA (grado previsto: 2027-2). Me estoy especializando en **infraestructura en la nube, DevOps y ciberseguridad**, y me gusta construir proyectos que pueda desplegar y probar de punta a punta.
+Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad EIA. Me estoy especializando en **infraestructura en la nube, DevOps y ciberseguridad**, y me gusta construir proyectos que pueda desplegar y probar de punta a punta.
 
 ## 🌐 Redes
 
